@@ -2,12 +2,12 @@
     {
         "id": 1,
         "name": "Evelyn Bennett",
-        "image": "imgs/product2.png"
+        "image": "imgs/product4.jpg"
     },
     {
         "id": 2,
         "name": "Liam Johnson",
-        "image": "imgs/product3.png"
+        "image": "imgs/product4.jpg"
     },
     {
         "id": 3,
@@ -17,11 +17,11 @@
     {
         "id": 4,
         "name": "Noah Brown",
-        "image": "imgs/product5.jpg"
+        "image": "imgs/product4.jpg"
     },
     {
         "id": 5,
         "name": "Ava Davis",
-        "image": "imgs/product6.jpg"
+        "image": "imgs/product4.jpg"
     }
 ]
