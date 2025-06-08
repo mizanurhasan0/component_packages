@@ -4,7 +4,8 @@
 // import Slide from "@/components/sliders/slider1/Slide";
 // import CustomTable2 from "@/components/table/CustomTable2.jsx";
 
-import CustomDropdown from "@/components/dropdown/CustomDropdown";
+// import CustomDropdown from "@/components/dropdown/CustomDropdown";
+import CustomModal from "@/components/modal/CustomModal";
 
 // import CustomTable from "@/components/table/CustomTable";
 
@@ -18,7 +19,9 @@ export default function Home() {
       {/* <CascadeSlider slides={Data} interval={1000} autoPlay={false} /> */}
       {/* <CustomTable /> */}
       {/* <CustomTable2 /> */}
-      <CustomDropdown />
+      <CustomModal isOpen>
+        <h1>this is header</h1>
+      </CustomModal>
     </div>
   );
 }
